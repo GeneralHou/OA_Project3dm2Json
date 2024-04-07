@@ -11,7 +11,7 @@ Step2: then create a directory named 'Surface_surface_name' in the same level di
 
 Step3: put the corresponding .png(the synthesized grid image after crop) and the coordinates.json under the directory above
 
-Step3: open N0_RunMeOnly.py and change the string pass to variable "surface_name"
+Step4: open N0_RunMeOnly.py and change the string pass to variable "surface_name"
 
-Step4: click Run
+Step5: click Run
 
